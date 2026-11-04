@@ -1,0 +1,6 @@
+My GitHub Learning Journey
+
+1. Learned Git basics.
+2. Created my first repository.
+3. Learned branching and merging.
+4. Now learning Pull Requests.
