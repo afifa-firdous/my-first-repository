@@ -1,0 +1,5 @@
+My First Introduction File
+Hello! My Name is Afifa
+I am a 3rd year Computer Science Engineering Student
+I am learning programming, Git and GitHub from scratch 
+My goal is to become a skilled software developer
